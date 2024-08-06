@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+}
+body{
+    background-color: rgb(234, 234, 234);
+}
+img {
+    border-radius: 6px;
+    width: 200px;
+}
+h1 {
+    font-size: 14px;
+}
+p{
+    font-size: 10px;
+}
+.Code {
+    padding: 12px;
+    color: rgba(0, 0, 0, 1);
+    background-color: white;
+    border-radius: 10px;
+    background-size: 200px;
+    width: 200px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.19);
+    margin-top: 100px;  
+}
+
+
